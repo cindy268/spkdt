@@ -4,3 +4,10 @@ This project was developed collaboratively as part of a team to build a Decision
 
 ## 📸 App Preview
 ![SPKDT App Preview](spkdt.png)
+
+## 👤 Role
+- Mobile App Developer (Team Project)
+
+## 🛠️ Tech Stack & Tools
+- Flutter
+- Dart
