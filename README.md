@@ -11,3 +11,6 @@ This project was developed collaboratively as part of a team to build a Decision
 ## 🛠️ Tech Stack & Tools
 - Flutter
 - Dart
+
+## 🚀 How to Run
+The source code and database for this mobile application are kept private in a local computer environment for security and academic privacy reasons. This repository is used strictly for project documentation and portfolio display.
