@@ -9,8 +9,23 @@ This project was developed collaboratively as part of a team to build a Decision
 - Mobile App Developer (Team Project)
 
 ## 🛠️ Tech Stack & Tools
-- Flutter
-- Dart
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ## 🚀 How to Run
-The source code and database for this mobile application are kept private in a local computer environment for security and academic privacy reasons. This repository is used strictly for project documentation and portfolio display.
+> **Important Notice:** The source code and database for this mobile application are currently kept private in a local computer environment for security and academic privacy reasons. This repository is used strictly for project documentation and portfolio display.
+> 
+> However, for technical review purposes, below are the standard operational steps required to build and run this Flutter application locally once the environment is accessible:
+
+### Prerequisites
+* Flutter SDK (Version 3.x or compatible)
+* Dart SDK (Version 3.5+)
+* Android Studio / VS Code (with Flutter extensions installed)
+* Android Emulator, iOS Simulator, or a physical mobile device with USB Debugging enabled
+
+### Local Deployment Steps
+
+1. **Clone or Download the Project:** Open your terminal, navigate to your desired directory, and clone this project repository.
+2. **Install Dependencies:** Open your terminal inside the project root folder and run the following command to download all required packages (including `sqflite` for local database management):
+
+   ```bash
+   flutter pub get
